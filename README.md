@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LostInAurora
-- 👀 I’m interested in Golang/CloudNative/Kubernetes
+- 👀 I’m interested in CloudNative/Kubernetes/IAC
 - 📫 How to reach me 592721596@qq.com or rumbleshi1996@gmail.com
 
 
