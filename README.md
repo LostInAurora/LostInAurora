@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LostInAurora
-- 👀 I’m interested in CloudNative/Kubernetes/IAC
-- 📫 How to reach me 592721596@qq.com or rumbleshi1996@gmail.com
+- 👀 I’m interested in CloudNative/Kubernetes/IAC/Azure
+- 📫 How to reach me 592721596@qq.com or shipenghao19961225@hotmail.com
 
 
 
