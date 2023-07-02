@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @LostInAurora
-- 👀 I’m interested in CloudNative/Kubernetes/IAC/Azure
-- 📫 How to reach me 592721596@qq.com or shipenghao19961225@hotmail.com
+- Hi, I’m Penghao
+- I’m interested in CloudNative/Kubernetes/IAC/Azure etc..., to build a automatic world.
+- How to reach me 592721596@qq.com
 
-
-
-- 🥸 好看的代码千篇一律，垃圾的代码花样百出
+- Good code is consistent, while bad code has endless variations.
 
 <!---
 LostInAurora/LostInAurora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
